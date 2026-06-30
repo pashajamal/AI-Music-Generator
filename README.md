@@ -1,4 +1,4 @@
-# JS Bach Chorales 
+# JS Bach Chorales Music Analysis &
 
 This repository contains tools for loading, analyzing, and processing the JS Bach Chorales dataset using Python. It structures polyphonic 4-part harmony midi/note sequences from tabular data formats into structured lists ready for machine learning models (e.g., LSTMs, Transformers) or algorithmic music analysis, complete with interactive musical playback.
 
